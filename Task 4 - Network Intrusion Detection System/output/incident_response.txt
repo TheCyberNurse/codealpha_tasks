@@ -1,0 +1,38 @@
+SURICATA INCIDENT RESPONSE LOG
+========================================
+
+Timestamp: 2026-10-06T00:07:34.975305+0100
+Alert: CodeAlpha Task 4 - DNS Test Alert
+Severity: 3
+Source: 172.20.10.2:51038
+Destination: 172.20.10.1:53
+Protocol: UDP
+Recommended Response: Monitor the activity and investigate the alert details.
+----------------------------------------
+
+Timestamp: 2026-10-06T00:07:35.061307+0100
+Alert: CodeAlpha Task 4 - DNS Test Alert
+Severity: 3
+Source: 172.20.10.2:51040
+Destination: 172.20.10.1:53
+Protocol: UDP
+Recommended Response: Monitor the activity and investigate the alert details.
+----------------------------------------
+
+Timestamp: 2026-10-06T00:07:35.013277+0100
+Alert: CodeAlpha Task 4 - DNS Test Alert
+Severity: 3
+Source: 172.20.10.2:51039
+Destination: 172.20.10.1:53
+Protocol: UDP
+Recommended Response: Monitor the activity and investigate the alert details.
+----------------------------------------
+
+Timestamp: 2026-10-06T00:07:35.112922+0100
+Alert: CodeAlpha Task 4 - DNS Test Alert
+Severity: 3
+Source: 172.20.10.2:51041
+Destination: 172.20.10.1:53
+Protocol: UDP
+Recommended Response: Monitor the activity and investigate the alert details.
+----------------------------------------
